@@ -1,0 +1,7 @@
+bacteria	 N33     N34     N35     N36     N37     N38     N39
+Acinetobacter   1       0       0       0       0       0       0
+Actinomyces     1       0       0       0       0       0       1
+Amorphus        1       0       0       0       0       0       0
+Bdellovibrio    1       0       0       1       0       0       0
+Blastobacter    0       0       0       0       1       0       0
+Brevibacterium  0       0       0       2       0       0       0

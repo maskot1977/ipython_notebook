@@ -1,0 +1,9 @@
+species A B C D E F G
+Corynebacterium 29 14 0 2 224 5 0
+Staphylococcus 12 2 0 0 96 320 7
+Peptoniphilus 5 0 0 0 0 0 0
+Streptococcus 4 1 0 0 0 0 1
+Streptophyta 3 0 0 0 1 0 0
+Phenylobacterium 2 2 0 0 0 0 0
+Erythrobacter 2 0 0 0 0 0
+Enhydrobacter 2 0 0 0 0 0

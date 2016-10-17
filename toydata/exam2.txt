@@ -1,0 +1,8 @@
+Student Math Science Japanese English History
+Tanaka 89 90 67 46 50
+Satoh 57 70 80 85 90
+Suzuki 80 90 35 40 50
+Honda 40 60 50 45 55
+Kawabata 78 85 45 55 60
+Yoshino 55 65 80 75 85
+Saitoh 90 85 88 92 95
