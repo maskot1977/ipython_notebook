@@ -27,3 +27,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/dat
 Concrete Slump Test Data Set 
 https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/slump_test.data
+
+Energy efficiency Data Set 
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+https://github.com/maskot1977/ipython_notebook/blob/master/toydata/ENB2012_data.xlsx
