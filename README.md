@@ -71,3 +71,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Rep
 Parkinsons Data Set 
 https://archive.ics.uci.edu/ml/datasets/Parkinsons
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data
+
+Parkinsons Telemonitoring Data Set 
+https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons_updrs.data
