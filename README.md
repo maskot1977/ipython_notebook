@@ -87,3 +87,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pos
 Primary Tumor Data Set 
 https://archive.ics.uci.edu/ml/datasets/Primary+Tumor
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/primary-tumor.data
+
+Sponge Data Set 
+https://archive.ics.uci.edu/ml/datasets/Sponge
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/sponge.data
