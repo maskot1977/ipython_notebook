@@ -43,3 +43,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/bre
 Breast Tissue Data Set 
 https://archive.ics.uci.edu/ml/datasets/Breast+Tissue
 https://github.com/maskot1977/ipython_notebook/blob/master/toydata/BreastTissue.xls
+
+Haberman's Survival Data Set 
+https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/haberman.data
