@@ -131,3 +131,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Sto
 Tarvel Review Ratings Data Set 
 https://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/google_review_ratings.csv
+
+Teaching Assistant Evaluation Data Set 
+https://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tae.data
