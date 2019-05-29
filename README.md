@@ -79,3 +79,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/par
 Physicochemical Properties of Protein Tertiary Structure Data Set 
 https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/CASP.csv
+
+Post-Operative Patient Data Set 
+https://archive.ics.uci.edu/ml/datasets/Post-Operative+Patient
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/post-operative.data
