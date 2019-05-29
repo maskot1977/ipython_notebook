@@ -135,3 +135,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/goo
 Teaching Assistant Evaluation Data Set 
 https://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tae.data
+
+Travel Reviews Data Set 
+https://archive.ics.uci.edu/ml/datasets/Travel+Reviews
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tripadvisor_review.csv
