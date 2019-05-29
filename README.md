@@ -99,3 +99,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/hea
 Zoo Data Set 
 https://archive.ics.uci.edu/ml/datasets/Zoo
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/zoo.data
+
+Auto MPG Data Set 
+https://archive.ics.uci.edu/ml/datasets/Auto+MPG
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/auto-mpg.data
