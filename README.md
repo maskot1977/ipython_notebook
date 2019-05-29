@@ -55,3 +55,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/hep
 Lung Cancer Data Set 
 https://archive.ics.uci.edu/ml/datasets/Lung+Cancer
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lung-cancer.data
+
+Lymphography Data Set 
+https://archive.ics.uci.edu/ml/datasets/Lymphography
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lymphography.data
