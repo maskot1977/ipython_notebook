@@ -67,3 +67,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/mam
 Parkinson Dataset with replicated acoustic features Data Set 
 https://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ReplicatedAcousticFeatures-ParkinsonDatabase.csv
+
+Parkinsons Data Set 
+https://archive.ics.uci.edu/ml/datasets/Parkinsons
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data
