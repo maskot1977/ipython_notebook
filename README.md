@@ -47,3 +47,7 @@ https://github.com/maskot1977/ipython_notebook/blob/master/toydata/BreastTissue.
 Haberman's Survival Data Set 
 https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/haberman.data
+
+Hepatitis Data Set 
+https://archive.ics.uci.edu/ml/datasets/Hepatitis
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/hepatitis.data
