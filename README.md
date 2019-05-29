@@ -63,3 +63,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lym
 Mammographic Mass Data Set 
 https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/mammographic_masses.data
+
+Parkinson Dataset with replicated acoustic features Data Set 
+https://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ReplicatedAcousticFeatures-ParkinsonDatabase.csv
