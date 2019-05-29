@@ -36,6 +36,10 @@ Acute Inflammations Data Set
 https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/diagnosis.data
 
+Car Evaluation Data Set 
+https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/car.data
+
 Breast Cancer Data Set 
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/breast-cancer.data
