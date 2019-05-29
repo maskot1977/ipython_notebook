@@ -19,3 +19,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/%5B
 AAAI 2014 Accepted Papers Data Set 
 https://archive.ics.uci.edu/ml/datasets/AAAI+2014+Accepted+Papers
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/%5BUCI%5D%20AAAI-14%20Accepted%20Papers%20-%20Papers.csv
+
+banknote authentication Data Set 
+https://archive.ics.uci.edu/ml/datasets/banknote+authentication
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/data_banknote_authentication.txt
