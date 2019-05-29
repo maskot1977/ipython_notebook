@@ -23,3 +23,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/%5B
 banknote authentication Data Set 
 https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/data_banknote_authentication.txt
+
+Concrete Slump Test Data Set 
+https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/slump_test.data
