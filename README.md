@@ -39,3 +39,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/dia
 Breast Cancer Data Set 
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/breast-cancer.data
+
+Breast Tissue Data Set 
+https://archive.ics.uci.edu/ml/datasets/Breast+Tissue
+https://github.com/maskot1977/ipython_notebook/blob/master/toydata/BreastTissue.xls
