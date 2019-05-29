@@ -59,3 +59,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lun
 Lymphography Data Set 
 https://archive.ics.uci.edu/ml/datasets/Lymphography
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lymphography.data
+
+Mammographic Mass Data Set 
+https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/mammographic_masses.data
