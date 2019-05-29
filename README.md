@@ -127,3 +127,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/bio
 StoneFlakes Data Set 
 https://archive.ics.uci.edu/ml/datasets/StoneFlakes
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/StoneFlakes.dat
+
+Tarvel Review Ratings Data Set 
+https://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/google_review_ratings.csv
