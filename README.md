@@ -111,3 +111,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/aut
 BuddyMove Data Set Data Set 
 https://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/buddymove_holidayiq.csv
+
+Flags Data Set 
+https://archive.ics.uci.edu/ml/datasets/Flags
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/flag.data
