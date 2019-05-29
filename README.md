@@ -35,3 +35,7 @@ https://github.com/maskot1977/ipython_notebook/blob/master/toydata/ENB2012_data.
 Acute Inflammations Data Set 
 https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/diagnosis.data
+
+Breast Cancer Data Set 
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/breast-cancer.data
