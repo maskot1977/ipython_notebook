@@ -123,3 +123,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/len
 QSAR biodegradation Data Set 
 https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/biodeg.csv
+
+StoneFlakes Data Set 
+https://archive.ics.uci.edu/ml/datasets/StoneFlakes
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/StoneFlakes.dat
