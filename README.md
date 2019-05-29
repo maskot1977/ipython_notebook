@@ -115,3 +115,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/bud
 Flags Data Set 
 https://archive.ics.uci.edu/ml/datasets/Flags
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/flag.data
+
+Lenses Data Set 
+https://archive.ics.uci.edu/ml/datasets/Lenses
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/lenses.data
