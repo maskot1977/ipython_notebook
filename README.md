@@ -1,4 +1,4 @@
-# ipython_notebook toydata
+# toydata
 
 Mice Protein Expression Data Set 
 https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
