@@ -103,3 +103,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/zoo
 Auto MPG Data Set 
 https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/auto-mpg.data
+
+BuddyMove Data Set Data Set 
+https://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/buddymove_holidayiq.csv
