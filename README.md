@@ -83,3 +83,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/CAS
 Post-Operative Patient Data Set 
 https://archive.ics.uci.edu/ml/datasets/Post-Operative+Patient
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/post-operative.data
+
+Primary Tumor Data Set 
+https://archive.ics.uci.edu/ml/datasets/Primary+Tumor
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/primary-tumor.data
