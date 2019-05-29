@@ -95,3 +95,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/spo
 Statlog (Heart) Data Set 
 https://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/heart.dat
+
+Zoo Data Set 
+https://archive.ics.uci.edu/ml/datasets/Zoo
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/zoo.data
