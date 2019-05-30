@@ -147,3 +147,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tra
 Daily Demand Forecasting Orders Data Set 
 https://archive.ics.uci.edu/ml/datasets/Daily+Demand+Forecasting+Orders
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Daily_Demand_Forecasting_Orders.csv
+
+default of credit card clients Data Set 
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+https://github.com/maskot1977/ipython_notebook/blob/master/toydata/default%20of%20credit%20card%20clients.xls
