@@ -139,3 +139,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tae
 Travel Reviews Data Set 
 https://archive.ics.uci.edu/ml/datasets/Travel+Reviews
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tripadvisor_review.csv
+
+Blood Transfusion Service Center Data Set 
+https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/transfusion.data
