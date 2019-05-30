@@ -159,3 +159,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/dat
 Facebook Live Sellers in Thailand Data Set 
 https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Live.csv
+
+Las Vegas Strip Data Set 
+https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/LasVegasTripAdvisorReviews-Dataset.csv
