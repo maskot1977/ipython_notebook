@@ -143,3 +143,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/tri
 Blood Transfusion Service Center Data Set 
 https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/transfusion.data
+
+Daily Demand Forecasting Orders Data Set 
+https://archive.ics.uci.edu/ml/datasets/Daily+Demand+Forecasting+Orders
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Daily_Demand_Forecasting_Orders.csv
