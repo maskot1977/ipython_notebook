@@ -151,3 +151,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Dai
 default of credit card clients Data Set 
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 https://github.com/maskot1977/ipython_notebook/blob/master/toydata/default%20of%20credit%20card%20clients.xls
+
+Eco-hotel Data Set 
+https://archive.ics.uci.edu/ml/datasets/Eco-hotel
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/dataset-CalheirosMoroRita-2017.csv
