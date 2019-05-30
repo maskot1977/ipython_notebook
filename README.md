@@ -155,3 +155,7 @@ https://github.com/maskot1977/ipython_notebook/blob/master/toydata/default%20of%
 Eco-hotel Data Set 
 https://archive.ics.uci.edu/ml/datasets/Eco-hotel
 https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/dataset-CalheirosMoroRita-2017.csv
+
+Facebook Live Sellers in Thailand Data Set 
+https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Live.csv
