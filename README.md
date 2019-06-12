@@ -167,3 +167,7 @@ https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/Las
 Real estate valuation data set Data Set 
 https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 https://github.com/maskot1977/ipython_notebook/blob/master/toydata/Real%20estate%20valuation%20data%20set.xlsx
+
+
+Pokemon Dataset 
+https://www.kaggle.com/abcsds/pokemon
