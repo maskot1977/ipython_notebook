@@ -171,3 +171,7 @@ https://github.com/maskot1977/ipython_notebook/blob/master/toydata/Real%20estate
 
 Pokemon Dataset 
 https://www.kaggle.com/abcsds/pokemon
+
+Superconductivty Data Data Set
+https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data
+https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/superconduct.csv
