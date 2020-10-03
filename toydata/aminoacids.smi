@@ -1,0 +1,71 @@
+Common amino acids	Gly	NCC(=O)O
+Common amino acids	Ala	C[C@H](N)C(=O)O
+Common amino acids	Val	CC(C)[C@H](N)C(=O)O
+Common amino acids	Leu	CC(C)C[C@H](N)C(=O)O
+Common amino acids	Ile	CC[C@H](C)[C@H](N)C(=O)O
+Common amino acids	Asp	N[C@@H](CC(=O)O)C(=O)O
+Common amino acids	Asn	NC(=O)C[C@H](N)C(=O)O
+Common amino acids	Glu	N[C@@H](CCC(=O)O)C(=O)O
+Common amino acids	Gln	NC(=O)CC[C@H](N)C(=O)O
+Common amino acids	Ser	N[C@@H](CO)C(=O)O
+Common amino acids	Thr	C[C@@H](O)[C@H](N)C(=O)O
+Common amino acids	Met	CSCC[C@H](N)C(=O)O
+Common amino acids	Cys	N[C@@H](CS)C(=O)O
+Common amino acids	Lys	NCCCC[C@H](N)C(=O)O
+Common amino acids	Arg	N=C(N)NCCC[C@H](N)C(=O)O
+Common amino acids	His	N[C@@H](Cc1c[nH]cn1)C(=O)O
+Common amino acids	Pro	O=C(O)[C@@H]1CCCN1
+Common amino acids	Phe	N[C@@H](Cc1ccccc1)C(=O)O
+Common amino acids	Tyr	N[C@@H](Cc1ccc(O)cc1)C(=O)O
+Common amino acids	Trp	N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O
+Other amino acids	L-Selenocysteine	N[C@@H](C[SeH])C(=O)O
+Other amino acids	L-Pyrrolysine	C(=O)([C@@H](N)CCCCNC([C@H]1[C@@H](CC=N1)C)=O)O
+Other amino acids	L-Ornithine	NCCC[C@H](N)C(=O)O
+Other amino acids	L-Homocysteine	N[C@@H](CCS)C(=O)O
+Other amino acids	L-Homoserine	N[C@@H](CCO)C(=O)O
+Other amino acids	L-Citrulline	NC(=O)NCCC[C@H](N)C(=O)O
+Other amino acids	3-Sulfino-L-alanine	N[C@@H](CS(=O)O)C(=O)O
+Other amino acids	N-(L-Arginino)succinate	C(=O)(C[C@H](NC(=N)NCCC[C@@H](C(=O)O)N)C(=O)O)O
+Other amino acids	3,4-Dihydroxy-L-phenylalanine	N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O
+Other amino acids	3-Iodo-L-tyrosine	N[C@@H](Cc1ccc(O)c(I)c1)C(=O)O
+Other amino acids	3,5-Diiodo-L-tyrosine	N[C@@H](Cc1cc(I)c(O)c(I)c1)C(=O)O
+Other amino acids	Triiodothyronine	N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O
+Other amino acids	Thyroxine	N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O
+Other amino acids	beta-Alanine	NCCC(=O)O
+Other amino acids	4-Aminobutanoate	NCCCC(=O)O
+Other amino acids	3-Aminoisobutanoate	CC(CN)C(=O)O
+Other amino acids	D-Alanine	C[C@@H](N)C(=O)O
+Other amino acids	D-Valine	CC(C)[C@@H](N)C(=O)O
+Other amino acids	D-Leucine	CC(C)C[C@@H](N)C(=O)O
+Other amino acids	D-Isoleucine	CC[C@@H](C)C(N)C(=O)O
+Other amino acids	D-Aspartate	N[C@H](CC(=O)O)C(=O)O
+Other amino acids	D-Asparagine	NC(=O)C[C@@H](N)C(=O)O
+Other amino acids	D-Glutamate	N[C@H](CCC(=O)O)C(=O)O
+Other amino acids	D-Glutamine	NC(=O)CC[C@@H](N)C(=O)O
+Other amino acids	D-Serine	N[C@H](CO)C(=O)O
+Other amino acids	D-Threonine	C[C@H](O)[C@@H](N)C(=O)O
+Other amino acids	D-Methionine	CSCC[C@@H](N)C(=O)O
+Other amino acids	D-Cysteine	N[C@H](CS)C(=O)O
+Other amino acids	D-Lysine	NCCCC[C@@H](N)C(=O)O
+Other amino acids	D-Arginine	N=C(N)NCCC[C@@H](N)C(=O)O
+Other amino acids	D-Histidine	N[C@H](Cc1c[nH]cn1)C(=O)O
+Other amino acids	D-Proline	O=C(O)[C@H]1CCCN1
+Other amino acids	D-Phenylalanine	N[C@H](Cc1ccccc1)C(=O)O
+Other amino acids	D-Tyrosine	N[C@H](Cc1ccc(O)cc1)C(=O)O
+Other amino acids	D-Tryptophan	N[C@H](Cc1c[nH]c2ccccc12)C(=O)O
+Other amino acids	5-Oxoproline	O=C1CC[C@@H](C(=O)O)N1
+Other amino acids	Hydroxyproline	O=C(O)[C@@H]1C[C@@H](O)CN1
+Other amino acids	Cystine	NC(CSSCC(N)C(=O)O)C(=O)O
+Other amino acids	N-Formylmethionine	[H]C(=O)N[C@@H](CCSC)C(O)=O
+Biogenic amines	Ethanolamine	NCCO
+Biogenic amines	Cysteamine	NCCS
+Biogenic amines	(R)-1-Aminopropan-2-ol	C[C@@H](O)CN
+Biogenic amines	beta-Alanine	NCCC(=O)O
+Biogenic amines	4-Aminobutanoate	NCCCC(=O)O
+Biogenic amines	Putrescine	NCCCCN
+Biogenic amines	Histamine	NCCc1c[nH]cn1
+Biogenic amines	Dopamine	NCCc1ccc(O)c(O)c1
+Biogenic amines	Serotonin	NCCc1c[nH]c2ccc(O)cc12
+Biogenic amines	Tyramine	NCCc1ccc(O)cc1
+Biogenic amines	Phenethylamine	c1cc(ccc1)CCN
+Biogenic amines	S-Adenosylmethioninamine	C[S+](CCCN)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(N)ncnc12
