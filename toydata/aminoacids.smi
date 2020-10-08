@@ -34,25 +34,25 @@ Other amino acids	Thyroxine	N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O
 Other amino acids	beta-Alanine	NCCC(=O)O
 Other amino acids	4-Aminobutanoate	NCCCC(=O)O
 Other amino acids	3-Aminoisobutanoate	CC(CN)C(=O)O
-Other amino acids	D-Alanine	C[C@@H](N)C(=O)O
-Other amino acids	D-Valine	CC(C)[C@@H](N)C(=O)O
-Other amino acids	D-Leucine	CC(C)C[C@@H](N)C(=O)O
-Other amino acids	D-Isoleucine	CC[C@@H](C)C(N)C(=O)O
-Other amino acids	D-Aspartate	N[C@H](CC(=O)O)C(=O)O
-Other amino acids	D-Asparagine	NC(=O)C[C@@H](N)C(=O)O
-Other amino acids	D-Glutamate	N[C@H](CCC(=O)O)C(=O)O
-Other amino acids	D-Glutamine	NC(=O)CC[C@@H](N)C(=O)O
-Other amino acids	D-Serine	N[C@H](CO)C(=O)O
-Other amino acids	D-Threonine	C[C@H](O)[C@@H](N)C(=O)O
-Other amino acids	D-Methionine	CSCC[C@@H](N)C(=O)O
-Other amino acids	D-Cysteine	N[C@H](CS)C(=O)O
-Other amino acids	D-Lysine	NCCCC[C@@H](N)C(=O)O
-Other amino acids	D-Arginine	N=C(N)NCCC[C@@H](N)C(=O)O
-Other amino acids	D-Histidine	N[C@H](Cc1c[nH]cn1)C(=O)O
-Other amino acids	D-Proline	O=C(O)[C@H]1CCCN1
-Other amino acids	D-Phenylalanine	N[C@H](Cc1ccccc1)C(=O)O
-Other amino acids	D-Tyrosine	N[C@H](Cc1ccc(O)cc1)C(=O)O
-Other amino acids	D-Tryptophan	N[C@H](Cc1c[nH]c2ccccc12)C(=O)O
+D-amino acids	D-Alanine	C[C@@H](N)C(=O)O
+D-amino acids	D-Valine	CC(C)[C@@H](N)C(=O)O
+D-amino acids	D-Leucine	CC(C)C[C@@H](N)C(=O)O
+D-amino acids	D-Isoleucine	CC[C@@H](C)C(N)C(=O)O
+D-amino acids	D-Aspartate	N[C@H](CC(=O)O)C(=O)O
+D-amino acids	D-Asparagine	NC(=O)C[C@@H](N)C(=O)O
+D-amino acids	D-Glutamate	N[C@H](CCC(=O)O)C(=O)O
+D-amino acids	D-Glutamine	NC(=O)CC[C@@H](N)C(=O)O
+D-amino acids	D-Serine	N[C@H](CO)C(=O)O
+D-amino acids	D-Threonine	C[C@H](O)[C@@H](N)C(=O)O
+D-amino acids	D-Methionine	CSCC[C@@H](N)C(=O)O
+D-amino acids	D-Cysteine	N[C@H](CS)C(=O)O
+D-amino acids	D-Lysine	NCCCC[C@@H](N)C(=O)O
+D-amino acids	D-Arginine	N=C(N)NCCC[C@@H](N)C(=O)O
+D-amino acids	D-Histidine	N[C@H](Cc1c[nH]cn1)C(=O)O
+D-amino acids	D-Proline	O=C(O)[C@H]1CCCN1
+D-amino acids	D-Phenylalanine	N[C@H](Cc1ccccc1)C(=O)O
+D-amino acids	D-Tyrosine	N[C@H](Cc1ccc(O)cc1)C(=O)O
+D-amino acids	D-Tryptophan	N[C@H](Cc1c[nH]c2ccccc12)C(=O)O
 Other amino acids	5-Oxoproline	O=C1CC[C@@H](C(=O)O)N1
 Other amino acids	Hydroxyproline	O=C(O)[C@@H]1C[C@@H](O)CN1
 Other amino acids	Cystine	NC(CSSCC(N)C(=O)O)C(=O)O
